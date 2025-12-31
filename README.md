@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚗 BabeStand
 
 **Sistema de Gestão de Stand Automóvel**
@@ -8,7 +10,13 @@
 [![TLS](https://img.shields.io/badge/TLS-1.3-success)](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
 [![Let's Encrypt](https://img.shields.io/badge/SSL-Let's%20Encrypt-blue)](https://letsencrypt.org)
 
+https://github.com/user-attachments/assets/9ec509fc-3b2d-4fc8-8769-dff54f56539c
+
 > Projeto desenvolvido no âmbito do CTeSP em Cibersegurança, Redes e Sistemas Informáticos - ESTG/IPP
+
+</div>
+
+---
 
 ## 📋 Índice
 
