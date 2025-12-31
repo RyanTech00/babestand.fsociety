@@ -8,7 +8,7 @@
 [![TLS](https://img.shields.io/badge/TLS-1.3-success)](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
 [![Let's Encrypt](https://img.shields.io/badge/SSL-Let's%20Encrypt-blue)](https://letsencrypt.org)
 
-> Projeto desenvolvido no âmbito do TeSP em Tecnologias e Programação de Sistemas de Informação - ESTG/IPP
+> Projeto desenvolvido no âmbito do CTeSP em Cibersegurança, Redes e Sistemas Informáticos - ESTG/IPP
 
 ## 📋 Índice
 
