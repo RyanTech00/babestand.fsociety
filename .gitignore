@@ -1,0 +1,45 @@
+# ============================================
+# BabeStand - .gitignore
+# ============================================
+
+# Configurações sensíveis
+.env
+config/config.php
+
+# Cache
+cache/
+*.cache
+
+# Logs
+logs/
+*.log
+
+# Uploads de utilizadores
+public/uploads/vehicles/*
+public/uploads/avatars/*
+public/uploads/documents/*
+!public/uploads/.gitkeep
+!public/uploads/vehicles/.gitkeep
+!public/uploads/avatars/.gitkeep
+!public/uploads/documents/.gitkeep
+
+# Dependências (se usares Composer)
+vendor/
+composer.lock
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.bak
+*.old
+
+# Sistema
+.htaccess.bak
