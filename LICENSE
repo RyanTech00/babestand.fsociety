@@ -1,37 +1,86 @@
-# BabeStand - Licença de Uso Restrito
+BabeStand - Licença de Uso Restrito
+Copyright (c) 2025 Ryan da Silva Barbosa, Hugo Danial da Silva Correia, Igor Gabriel Macedo Araújo.
+Todos os direitos reservados.
 
-Copyright (c) 2025 Ryan da Silva Barbosa & Hugo Correia. Todos os direitos reservados.
+================================================================================
+                              TERMOS E CONDIÇÕES
+================================================================================
 
-## Termos e Condições
+1. DEFINIÇÕES
+   "Software" refere-se ao código-fonte, documentação, assets e todos os
+   ficheiros contidos neste repositório.
+   "Autores" refere-se aos detentores dos direitos de autor listados acima.
+   "Utilizador" refere-se a qualquer pessoa que aceda a este repositório.
 
-### Uso Permitido
-- ✅ Visualização do código-fonte para fins educacionais e de aprendizagem
-- ✅ Citação em trabalhos académicos com devida atribuição
-- ✅ Referência como exemplo em contexto educacional
+2. USO PERMITIDO
+   O Utilizador pode:
+   ✓ Visualizar o código-fonte para fins educacionais e de aprendizagem
+   ✓ Citar em trabalhos académicos com devida atribuição aos Autores
+   ✓ Referenciar como exemplo em contexto educacional não comercial
+   ✓ Executar localmente para fins de avaliação académica
 
-### Uso Proibido
-- ❌ Cópia, reprodução ou redistribuição do código, total ou parcial
-- ❌ Modificação ou criação de trabalhos derivados
-- ❌ Uso comercial de qualquer natureza
-- ❌ Incorporação em outros projetos, produtos ou serviços
-- ❌ Sublicenciamento ou transferência de direitos
-- ❌ Utilização para desenvolvimento de software concorrente
+3. USO PROIBIDO
+   O Utilizador NÃO pode, sem autorização prévia por escrito dos Autores:
+   ✗ Copiar, reproduzir ou redistribuir o código, total ou parcialmente
+   ✗ Modificar ou criar trabalhos derivados
+   ✗ Utilizar para fins comerciais de qualquer natureza
+   ✗ Incorporar em outros projetos, produtos ou serviços
+   ✗ Sublicenciar ou transferir quaisquer direitos
+   ✗ Desenvolver software concorrente baseado neste código
+   ✗ Remover ou alterar avisos de direitos de autor
+   ✗ Utilizar o nome "BabeStand" ou marcas associadas
 
-### Licenciamento Comercial
-Para obter uma licença comercial ou discutir parcerias, contacte:
-- Email: ryan.barbosa@fsociety.pt
-- Website: https://fsociety.pt
+4. LICENCIAMENTO COMERCIAL
+   Para obter uma licença comercial, discutir parcerias ou adquirir
+   direitos de utilização, contacte os Autores através de:
+   
+   Ryan Barbosa
+   - Email: contact@ryanbarbosa.com
+   - Website: ryanbarbosa.com
+   
+   Hugo Correia
+   - Email: gamerpt74@gmail.com
 
-### Isenção de Garantias
-Este software é fornecido "como está", sem garantias de qualquer tipo.
-Os autores não se responsabilizam por quaisquer danos decorrentes do uso
-ou impossibilidade de uso deste software.
+   Igor Araújo
+   - Email: aigor0055@gmail.com
 
-### Aplicação
-Qualquer violação destes termos resultará na revogação automática de
-qualquer permissão concedida e poderá resultar em ação legal.
+5. PROPRIEDADE INTELECTUAL
+   Todo o código, design, arquitetura e documentação são propriedade
+   exclusiva dos Autores. Este repositório público não constitui
+   transferência de quaisquer direitos de propriedade intelectual.
 
----
+6. ISENÇÃO DE GARANTIAS
+   ESTE SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIAS DE QUALQUER TIPO,
+   EXPRESSAS OU IMPLÍCITAS, INCLUINDO MAS NÃO LIMITADO A GARANTIAS DE
+   COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO.
 
-Este projeto foi desenvolvido como trabalho académico para o CTeSP em
-Cibersegurança, Redes e Sistemas de Informação - ESTG/IPP (2024/2025).
+7. LIMITAÇÃO DE RESPONSABILIDADE
+   EM NENHUMA CIRCUNSTÂNCIA OS AUTORES SERÃO RESPONSÁVEIS POR QUAISQUER
+   DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS OU CONSEQUENCIAIS
+   DECORRENTES DO USO OU IMPOSSIBILIDADE DE USO DESTE SOFTWARE.
+
+8. VIOLAÇÕES
+   Qualquer violação destes termos resultará na revogação automática de
+   qualquer permissão concedida e poderá resultar em ação legal para
+   proteção dos direitos de autor e propriedade intelectual.
+
+9. LEI APLICÁVEL
+   Esta licença é regida pelas leis de Portugal e da União Europeia,
+   incluindo o Código do Direito de Autor e dos Direitos Conexos.
+
+================================================================================
+                              CONTEXTO ACADÉMICO
+================================================================================
+
+Este projeto foi desenvolvido como trabalho final da unidade curricular
+de Segurança em Aplicações Web (SAW) do CTeSP em Cibersegurança, Redes
+e Sistemas Informáticos - ESTG/IPP, ano letivo 2024/2025.
+
+A disponibilização pública do código destina-se exclusivamente a:
+- Avaliação académica pelos docentes
+- Demonstração de competências técnicas
+- Referência educacional para a comunidade
+
+================================================================================
+
+Para qualquer questão sobre esta licença, contacte os autores.
