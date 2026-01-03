@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+title: "BabeStand - Sistema de Gestão de Stand Automóvel"
+message: "Se utilizar este software como referência, por favor cite-o conforme indicado."
+type: software
+authors:
+  - family-names: "Barbosa"
+    given-names: "Ryan da Silva"
+    email: "ryan.barbosa@fsociety.pt"
+  - family-names: "Correia"
+    given-names: "Hugo Danial da Silva"
+  - family-names: "Araújo"
+    given-names: "Igor Gabriel Macedo"
+repository-code: "https://github.com/RyanTech00/babestand.fsociety"
+url: "https://babestand.fsociety.pt"
+abstract: "Aplicação web para gestão de stands automóveis com foco em segurança, desenvolvida em PHP 8.3 com MariaDB. Implementa autenticação 2FA, proteção OWASP Top 10, TLS 1.3 e arquitetura de defesa em profundidade."
+keywords:
+  - php
+  - security
+  - owasp
+  - web-application
+  - car-dealership
+  - two-factor-authentication
+  - mariadb
+license: "Proprietary"
+version: "1.0.0"
+date-released: "2025-01-03"
+institution:
+  name: "ESTG - Instituto Politécnico do Porto"
+  address: "Felgueiras, Portugal"
+references:
+  - type: report
+    title: "Relatório Técnico - BabeStand"
+    authors:
+      - family-names: "Barbosa"
+        given-names: "Ryan"
+      - family-names: "Correia"
+        given-names: "Hugo"
+      - family-names: "Araújo"
+        given-names: "Igor"
+    year: 2025
+    institution:
+      name: "ESTG/IPP"
+```
+
+---
+
+### 📝 Passo 4 - Topics no GitHub:
+
+Vai às **Settings** do repositório e adiciona estes topics:
+```
+php, security, owasp, web-security, two-factor-authentication, 
+mariadb, bootstrap, car-dealership, academic-project, csrf-protection,
+xss-prevention, sql-injection-prevention, tls, cloudflare
