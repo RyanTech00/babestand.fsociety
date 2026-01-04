@@ -2,6 +2,8 @@
 
 # 🚗 BabeStand
 
+<img width="1952" height="2208" alt="Gemini_Generated_Image_9l0r469l0r469l0r" src="https://github.com/user-attachments/assets/3d084acb-a89a-4240-826f-892d0f8840a6" />
+
 **Sistema de Gestão de Stand Automóvel**
 
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)](https://php.net)
