@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🚗 BabeStand
-
 <img width="2816" height="1167" alt="babestand-logo" src="https://github.com/user-attachments/assets/7eac6a77-67b4-4fdb-81da-74ec15405c0f" />
 
 **Sistema de Gestão de Stand Automóvel**
